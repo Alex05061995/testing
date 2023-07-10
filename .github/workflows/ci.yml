@@ -37,4 +37,8 @@ jobs:
         run: |
         cd app
         npm start &
+<<<<<<< HEAD
         npx wait-on --timeout 60000
+=======
+        npx wait-on --timeout 60000
+>>>>>>> 36a483ab9687aa3e94ffe52112d4e05dba9a9171
