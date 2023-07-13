@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-
-      Новое изменение для мастера
+ 
+      Rebase test
     </div>
   );
 }
